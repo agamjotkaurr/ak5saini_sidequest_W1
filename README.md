@@ -1,6 +1,8 @@
 ## Project Title
 
-## Week 1 Side Quest - Splash Screen
+Week 1 Side Quest - Splash Screen
+
+---
 
 ## Group Number (only for group work)
 
