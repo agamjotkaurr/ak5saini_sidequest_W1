@@ -1,40 +1,34 @@
 ## Project Title
-Agam's Project
 
----
+## Week 1 Side Quest - Splash Screen
+
 ## Group Number (only for group work)
-List your group number. 
+
+Indivdual
 
 ---
+
 ## Description
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
 
-Example:
-> This project lets users switch between shapes using keyboard inputs. 
-> It explores how visual feedback can communicate accessibility states. 
+This project is a simple p5.js sketch created to confirm that my development setup and GitHub Pages deployment work correctly. The sketch displays a splash screen with a short message inspired by the idea of “building a journey,” and transitions to a second screen once the user clicks.
 
 ---
+
 ## Interaction Instructions
-Describe how to use or play your project.
-- How does the user start?
-- What controls or keys do they use?
-- Any important visual or audio feedback to watch for?
 
-Example:
-> Press `S` to switch shapes and `R` to reset the canvas. xxccx
+When the sketch loads, a splash screen appears.
+Click anywhere on the screen to move forward.
 
 ---
+
 ## Assets
-List any images, sounds, or other files used in your assets/ folder.
-Include in-text citations for all assets that are not your own, and connect them to your reference list.
 
-Example:
-> - `assets/sound/beep.mp3` (created in GarageBand)  
-> - `assets/image/background.png` (original artwork)
+No external assets were used in this project.
 
 ---
+
 ## References
-Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format. 
+
+No external references were used for this Side Quest
 
 ---
